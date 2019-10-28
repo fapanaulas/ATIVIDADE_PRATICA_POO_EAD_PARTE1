@@ -1,6 +1,6 @@
 # PROGRAMAÇÃO POO - ATIVIDADE INDIVIDUAL
 # CONCEITOS DE HERANÇA
-# TODAS AS ORIENTAÇÕES DA ATIVIDADE FICARÁ NESTE README
+# TODAS AS ORIENTAÇÕES DA ATIVIDADE FICARÁ NESTE README    
 # -------------------------------------------------------------------------------
 
 
